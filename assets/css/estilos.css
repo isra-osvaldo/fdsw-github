@@ -2,6 +2,16 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
+/* Navbar */
+.navbar {
+  background-color: #246161; /*246161 - 5d6c6c*/
+}
+
+.name {
+  text-transform: uppercase;
+  letter-spacing: 5px;
+}
+
 /* Hero Section */
 
 #Hero-Section {
