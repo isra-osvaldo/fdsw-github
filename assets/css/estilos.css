@@ -35,11 +35,26 @@ body {
 
 }
 
+.btn-outline-success {
+  color: #246161;
+  border-color: #246161;
+}
+
+.btn-outline-success:hover {
+  background-color: #246161;
+  color: #fff;
+}
+
+
 /* Contacto */
 
 #Contacto form label {
   font-weight: 700;
   color: #373a3c;
+}
+
+.btn-contact {
+  background-color: #337b7b;
 }
 
 @media (max-width: 768px) {
