@@ -4,7 +4,7 @@ body {
 
 /* Navbar */
 .navbar {
-  background-color: #246161; /*246161 - 5d6c6c*/
+  background-color: #246161; /*246161 - 5d6c6c - b5ba6c*/
 }
 
 .name {
@@ -16,9 +16,10 @@ body {
 
 #Hero-Section {
   background-image: url("../img/bg-hero-web-design.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: left;
+  background-repeat: repeat;
+  /* background-repeat: no-repeat;
+  background-size: contain;
+  background-position:left; */
 }
 
 /* Mis trabajos */
